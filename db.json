@@ -1,0 +1,43 @@
+{
+  "coolers": [
+    {
+      "id": 1,
+      "name": "cooler",
+      "brand": "corsair",
+      "model": "H60i RGB PRO XT",
+      "thumbnail": "https://www.corsair.com/medias/sys_master/images/images/h69/hb4/9656225529886/CW-9060049-WW/Gallery/H60i_RGB_PRO_XT_01/-CW-9060049-WW-Gallery-H60i-RGB-PRO-XT-01.png_1200Wx1200H",
+      "large": "",
+      "images": [
+        "https://www.corsair.com/medias/sys_master/images/images/h69/hb4/9656225529886/CW-9060049-WW/Gallery/H60i_RGB_PRO_XT_01/-CW-9060049-WW-Gallery-H60i-RGB-PRO-XT-01.png_1200Wx1200H"
+      ],
+      "price": 190,
+      "energy": 100
+    },
+    {
+      "id": 2,
+      "name": "cooler",
+      "brand": "corsair",
+      "model": "H150i ELITE CAPELLIX",
+      "thumbnail": "https://www.corsair.com/medias/sys_master/images/images/h1a/h28/9678116257822/base-elite-capellix-cooler-wht-config/Gallery/H150i_ELITE_CAPELLIX_WHITE_01/-base-elite-capellix-cooler-wht-config-Gallery-H150i-ELITE-CAPELLIX-WHITE-01.png_1200Wx1200H",
+      "large": "",
+      "images": [
+        "https://www.corsair.com/medias/sys_master/images/images/h1a/h28/9678116257822/base-elite-capellix-cooler-wht-config/Gallery/H150i_ELITE_CAPELLIX_WHITE_01/-base-elite-capellix-cooler-wht-config-Gallery-H150i-ELITE-CAPELLIX-WHITE-01.png_1200Wx1200H"
+      ],
+      "price": 220,
+      "energy": 100
+    },
+    {
+      "id": 3,
+      "name": "cooler",
+      "brand": "corsair",
+      "model": "A500",
+      "thumbnail": "https://www.corsair.com/medias/sys_master/images/images/h96/heb/9440134561822/-CT-9010003-WW-Gallery-A500-01.png",
+      "large": "",
+      "images": [
+        "https://www.corsair.com/medias/sys_master/images/images/h96/heb/9440134561822/-CT-9010003-WW-Gallery-A500-01.png"
+      ],
+      "price": 170,
+      "energy": 100
+    }
+  ]
+}
